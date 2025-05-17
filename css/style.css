@@ -31,13 +31,11 @@ address {
   color: #2e2f42;
 }
 
-header {
+.header-menu-link {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-
-  /* line-height: 24px; */
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
