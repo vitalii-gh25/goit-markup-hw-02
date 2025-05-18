@@ -22,7 +22,7 @@ address {
 
 /* ============ */
 
-.header-logo-link-blue {
+.header-logo-anchor-blue {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -32,11 +32,11 @@ address {
   color: #4d5ae5;
 }
 
-.header-logo-link-black {
+.header-logo-anchor-black {
   color: #2e2f42;
 }
 
-.header-menu-link {
+.header-menu-anchor {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -45,8 +45,8 @@ address {
   color: #2e2f42;
 }
 
-.header-menu-link:hover,
-.header-menu-link:focus {
+.header-menu-anchor:hover,
+.header-menu-anchor:focus {
   color: #404bbf;
 }
 
@@ -56,7 +56,7 @@ address {
 }
 .address-item {
 }
-.address-link {
+.address-anchor {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -64,8 +64,8 @@ address {
   color: #434455;
 }
 
-.address-link:hover,
-.address-link:focus {
+.address-anchor:hover,
+.address-anchor:focus {
   color: #404bbf;
 }
 
@@ -195,7 +195,7 @@ address {
 footer {
   background: #2e2f42;
 }
-.footer-logo-link-blue {
+.footer-logo-anchor-blue {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
