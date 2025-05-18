@@ -24,8 +24,6 @@ address {
 /* ============ */
 
 header {
-  width: 1440px;
-  height: 72px;
 }
 
 .header-logo-link-blue {
@@ -78,8 +76,6 @@ header {
 /* hero */
 
 .hero-section {
-  width: 1440px;
-  height: 600px;
   background-color: #2e2f42;
 }
 .hero-section-title {
@@ -100,16 +96,6 @@ header {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-direction: row;
-  gap: 10px;
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
 }
 
@@ -121,22 +107,16 @@ header {
 /* solutions */
 
 .solutions-section {
-  width: 1128px;
-  height: 104px;
 }
 .solutions-section-title {
 }
+
 .solutions-section-list {
 }
+
 .solutions-section-item {
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-direction: column;
-  gap: 8px;
-  width: 264px;
-  height: 104px;
 }
+
 .solutions-section-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -144,6 +124,7 @@ header {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .solutions-section-paragraph {
   font-size: 16px;
   line-height: 1.5;
@@ -154,10 +135,9 @@ header {
 /* team */
 
 .team-section {
-  width: 1440px;
-  height: 732px;
   background: #f4f4fd;
 }
+
 .team-section-title {
   font-weight: 700;
   font-size: 36px;
@@ -166,22 +146,14 @@ header {
   text-align: center;
   color: #2e2f42;
 }
+
 .team-section-list {
 }
+
 .team-section-item {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  gap: 32px;
-  border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
-  width: 264px;
-  height: 380px;
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background: #fff;
 }
+
 .team-section-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -190,6 +162,7 @@ header {
   text-align: center;
   color: #2e2f42;
 }
+
 .team-section-paragraph {
   font-size: 16px;
   line-height: 1.5;
@@ -201,8 +174,6 @@ header {
 /* portfolio */
 
 .portfolio-section {
-  width: 1128px;
-  height: 1000px;
 }
 
 .portfolio-section-title {
@@ -213,14 +184,13 @@ header {
   text-align: center;
   color: #2e2f42;
 }
+
 .portfolio-section-list {
-  width: 1128px;
-  height: 420px;
 }
+
 .portfolio-section-item {
-  width: 360px;
-  height: 420px;
 }
+
 .portfolio-section-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -228,6 +198,7 @@ header {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .portfolio-section-paragraph {
   font-size: 16px;
   line-height: 1.5;
@@ -238,14 +209,10 @@ header {
 /* footer */
 
 footer {
-  width: 1440px;
-  height: 312px;
   background: #2e2f42;
 }
 
 .footer-list {
-  width: 264px;
-  height: 112px;
 }
 
 .footer-item {
