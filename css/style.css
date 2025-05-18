@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
+  background-color: #fff;
   /* font-weight: 500; */
 }
 
@@ -22,7 +23,7 @@ address {
 
 /* ============ */
 
-.header-logo-anchor-blue {
+.header-logo-link-blue {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -32,11 +33,11 @@ address {
   color: #4d5ae5;
 }
 
-.header-logo-anchor-black {
+.header-logo-link-black {
   color: #2e2f42;
 }
 
-.header-menu-anchor {
+.header-menu-link {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -45,8 +46,8 @@ address {
   color: #2e2f42;
 }
 
-.header-menu-anchor:hover,
-.header-menu-anchor:focus {
+.header-menu-link:hover,
+.header-menu-link:focus {
   color: #404bbf;
 }
 
@@ -56,7 +57,7 @@ address {
 }
 .address-item {
 }
-.address-anchor {
+.address-link {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -64,8 +65,8 @@ address {
   color: #434455;
 }
 
-.address-anchor:hover,
-.address-anchor:focus {
+.address-link:hover,
+.address-link:focus {
   color: #404bbf;
 }
 
@@ -195,7 +196,7 @@ address {
 footer {
   background: #2e2f42;
 }
-.footer-logo-anchor-blue {
+.footer-logo-link-blue {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
