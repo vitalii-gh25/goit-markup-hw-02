@@ -145,6 +145,7 @@ header {
 }
 
 .team-section-title {
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -183,6 +184,7 @@ header {
 }
 
 .portfolio-section-title {
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -216,12 +218,6 @@ header {
 
 footer {
   background: #2e2f42;
-}
-
-.footer-list {
-}
-
-.footer-item {
 }
 
 .footer-logo-link-blue {
